@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API-TRADUCTOR", "API-TRADUCTOR\API-TRADUCTOR.csproj", "{B5BC0FA5-D59B-4672-8E0B-73AD86A74BE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5BC0FA5-D59B-4672-8E0B-73AD86A74BE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5BC0FA5-D59B-4672-8E0B-73AD86A74BE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5BC0FA5-D59B-4672-8E0B-73AD86A74BE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5BC0FA5-D59B-4672-8E0B-73AD86A74BE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C82B4EC-112D-476D-AF8F-6BA69BBC5D03}
+	EndGlobalSection
+EndGlobal
